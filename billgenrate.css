@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(205, 124, 26, 0.625);
+}
+.main{
+    height: 500px;
+    width: 700px;
+    background-color: rgba(148, 118, 118, 0.763);
+    margin: 50px 00px 00px 350px;
+    display: flex;
+}
+.food{
+    height: 500px;
+    width: 350px;
+}
+.blance{
+    height: 500px;
+    width: 350px;
+}
+h4{
+    margin: 20px 00px 60px 50px;
+}
+
+
